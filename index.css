@@ -18,8 +18,13 @@ body {
 
 #bio {
     display: inline-block;
+    color: red;
 }
 
 .favoriteFoods {
     color: blue;
+}
+
+.faves {
+    color: red;
 }
