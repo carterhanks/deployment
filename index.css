@@ -8,5 +8,18 @@ body {
 }
 
 .profileName {
-    padding-left: 10%;
+    padding-left: 1%;
+    display: inline-block;
+}
+
+.bio {
+    color: blue;
+}
+
+#bio {
+    display: inline-block;
+}
+
+.favoriteFoods {
+    color: blue;
 }
