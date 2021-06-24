@@ -1,0 +1,12 @@
+body {
+    background-color: gray;
+}
+
+.profilePic {
+    height: 8%;
+    width: 8%;
+}
+
+.profileName {
+    padding-left: 10%;
+}
